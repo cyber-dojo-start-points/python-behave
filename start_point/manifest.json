@@ -1,6 +1,6 @@
 {
-  "display_name": "Python, behave",
-  "image_name": "cyberdojofoundation/python_behave:a1ce705",
+  "display_name": "Python 3.12, behave 1.2.6",
+  "image_name": "cyberdojofoundation/python_behave:aec3ec7",
   "visible_filenames": [
     "hiker.feature",
     "steps/hiker_steps.py",

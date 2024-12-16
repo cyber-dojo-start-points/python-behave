@@ -1,6 +1,6 @@
 {
   "display_name": "Python 3.13, behave 1.2.6",
-  "image_name": "ghcr.io/cyber-dojo-languages/python_behave:5a492e9",
+  "image_name": "ghcr.io/cyber-dojo-languages/python_behave:e41f08e",
   "visible_filenames": [
     "hiker.feature",
     "steps/hiker_steps.py",

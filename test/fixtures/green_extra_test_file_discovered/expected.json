@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 70,
+  "match_counts": {
+    "^Feature: the size of the score # answer_size\\.feature:[0-9]+$": 1,
+    "^2 features passed, 0 failed, 0 skipped$": 1,
+    "^2 scenarios passed, 0 failed, 0 skipped$": 1,
+    "^6 steps passed, 0 failed, 0 skipped$": 1
+  }
+}

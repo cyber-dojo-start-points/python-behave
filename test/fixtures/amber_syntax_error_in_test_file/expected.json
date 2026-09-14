@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Success: no issues found in 1 source file$": 1,
+    "^Exception SyntaxError: .* \\(hiker_steps\\.py, line [0-9]+\\)$": 1,
+    "^SyntaxError: '\\(' was never closed$": 1,
+    ", 0 failed, ": 0,
+    "Failing scenarios": 0
+  }
+}

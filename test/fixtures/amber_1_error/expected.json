@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 80,
+  "match_counts": {
+    "^Errored scenarios:$": 1,
+    "^ +ZeroDivisionError: division by zero$": 1,
+    "^0 scenarios passed, 0 failed, 1 error, 0 skipped$": 1,
+    "Failing scenarios": 0,
+    "^TOTAL ": 0
+  }
+}

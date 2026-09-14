@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^ +answer_size\\.feature:[0-9]+  the score is three digits long$": 1,
+    "^1 feature passed, 1 failed, 0 skipped$": 1,
+    "^1 scenario passed, 1 failed, 0 skipped$": 1,
+    "^5 steps passed, 1 failed, 0 skipped$": 1
+  }
+}

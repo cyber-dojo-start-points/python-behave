@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 60,
+  "match_counts": {
+    "^1 feature passed, 0 failed, 0 skipped$": 1,
+    "^1 scenario passed, 0 failed, 0 skipped$": 1,
+    "^TOTAL +[0-9]+ +1 +[0-9]+%$": 1,
+    "answer_size": 0,
+    "three digits": 0
+  }
+}

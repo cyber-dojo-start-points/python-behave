@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 60,
+  "match_counts": {
+    "^1 scenario passed, 0 failed, 0 skipped$": 1,
+    "^fizz_buzz\\.py +[0-9]+ +0 +100%$": 1,
+    "^steps/fizz_buzz_steps\\.py +[0-9]+ +0 +100%$": 1,
+    "hiker": 0
+  }
+}

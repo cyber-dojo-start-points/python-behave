@@ -1,0 +1,28 @@
+from behave import given, when, then
+from hiker import Hiker
+
+
+@given(u'the hitch-hiker selects some tiles')
+def step_selects_tiles(context):
+    pass
+
+
+@when(u'they spell {tile1:d} times {tile2:d}')
+def step_spells_product(context, tile1, tile2):
+    douglas = Hiker()
+    context.tileproduct = douglas.answer(tile1, tile2)
+
+
+@then(u'the score is {answer:d}')
+def step_scores(context, answer):
+    assert context.tileproduct == answer
+
+
+@then(u'the score is {size:d} digits long')
+def step_scores_digits(context, size):
+    assert len(str(context.tileproduct)) == size
+
+
+@then(u'the score is not the question')
+def step_scores_not_the_question(context):
+    assert str(context.tileproduct) != '6 times 7'

@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^hiker\\.py:[0-9]+: error: .* \\[syntax\\]$": 1,
+    "^Exception SyntaxError: .* \\(hiker\\.py, line [0-9]+\\)$": 1,
+    ", 0 failed, ": 0,
+    "Failing scenarios": 0
+  }
+}

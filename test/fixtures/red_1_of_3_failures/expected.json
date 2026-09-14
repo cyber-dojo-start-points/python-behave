@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Failing scenarios:$": 1,
+    "^ +ASSERT FAILED:$": 1,
+    "^2 scenarios passed, 1 failed, 0 skipped$": 1,
+    "^8 steps passed, 1 failed, 0 skipped$": 1,
+    "Errored scenarios": 0
+  }
+}

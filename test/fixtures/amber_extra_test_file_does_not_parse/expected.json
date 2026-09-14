@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^ParserError: Failed to parse \".*/answer_size\\.feature\"": 1,
+    "^REASON: Multiple features in one file are not supported\\.$": 1,
+    ", 0 failed, ": 0,
+    "Failing scenarios": 0,
+    "scenarios? passed": 0
+  }
+}

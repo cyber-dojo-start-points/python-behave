@@ -1,14 +1,14 @@
 {
-  "display_name": "Python 3.14.3, behave 1.3.3",
+  "display_name": "Python 3.15.0, behave 1.3.3",
   "language": [
     "Python",
-    "3.14.3"
+    "3.15.0"
   ],
   "test_framework": [
     "behave",
     "1.3.3"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/python_behave:adb1f48",
+  "image_name": "ghcr.io/cyber-dojo-languages/python_behave:d77ecb9@sha256:7993accc6ab7dc247b99e8416f1bc76f4e65fb88d473594bc1af735b6da5031e",
   "visible_filenames": [
     "hiker.feature",
     "steps/hiker_steps.py",

@@ -1,7 +1,7 @@
 {
   "max_output_lines": 50,
   "match_counts": {
-    "^hiker_checks\\.py:[0-9]+: error: .* \\[syntax\\]$": 1,
+    "^hiker_checks\\.py:[0-9]+: error: .* \\[syntax\\]$": 2,
     "^Couldn't parse '.*/hiker_checks\\.py' as Python source: ": 1,
     "^1 scenario passed, 0 failed, 0 skipped$": 1,
     "^TOTAL ": 0
